@@ -22,4 +22,4 @@ Input: Python is easy
 Result: 3 words and 19 characters.
 Pass
 Limitation
-The character count includes spaces and punctuation. Therefore, the character count represents all characters entered in the sentence rather than only letters.
+The character count includes spaces and punctuation. Therefore, the character count represents all characters entered in the sentence rather than only letters."# Repo-CSC649" 
